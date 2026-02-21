@@ -9,6 +9,7 @@
 ## 🛠 Skills
 - HTML5
 - CSS3
+- JavaScript
 - Flexbox & Positioning
 - Responsive Design
 - CSS Animations
