@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Zaid 👋
 
-<!--
-**ZaidAjmeri07/ZaidAjmeri07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Frontend Developer in progress  
+💻 Passionate about UI design & responsive layouts  
+🚀 Currently building real-world frontend projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- HTML5
+- CSS3
+- Flexbox & Positioning
+- Responsive Design
+- CSS Animations
+
+---
+
+## 📌 Featured Project
+🔗 Frontend Practice Projects  
+👉 https://github.com/ZaidAjmeri07/Frontend-practice
+
+---
+
+## 📚 Currently Learning
+- JavaScript
+- Git & GitHub
+- Modern UI Techniques
+
+---
+
+## 📫 Connect With Me
+🔗 LinkedIn (will add soon)
+
+---
+
+⭐ Always learning. Always building.
